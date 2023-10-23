@@ -26,21 +26,13 @@ const ConnectToMetamask = ({ connectToMetamask }) => {
         <img src="images/simplejack.gif" width="100%" />
 
 
-                    <p className="p-2">
+                    <p className="p-4">
 
                     <a href="https://x.com/SimpleJackCoin" ><i class="fab fa-twitter large-icon"></i></a>
                     &nbsp;&nbsp;
                     <a href="https://t.me/SimpleJackCoin" ><i class="fab fa-telegram large-icon"></i></a>
 
 
-                    <hr className="my-4" />
-                    <button
-                      onClick={connectToMetamask}
-                      className="btn btn-primary d-flex align-items-center"
-                      style={{ fontSize: "0.9rem", letterSpacing: "0.14rem" }}
-                    >
-                      Connect Wallet
-                    </button>
                     </p>
 
                 <hr className="my-4" />
