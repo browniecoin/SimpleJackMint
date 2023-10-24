@@ -43,7 +43,7 @@ const ConnectToMetamask = ({ connectToMetamask }) => {
                     </p>
 
                 <hr className="my-4" />
-                BlackJack Token CA 0x237af1d6086af64Eaf22E5596417E947637F36B8
+                BlackJack Token CA 0xd9145CCE52D386f254917e481eB44e9943F39138
                 <hr className="my-4" />
                 Dextools: <a href="" >Chart</a>
                 <p>
