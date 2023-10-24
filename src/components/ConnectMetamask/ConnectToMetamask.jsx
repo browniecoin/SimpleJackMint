@@ -43,7 +43,7 @@ const ConnectToMetamask = ({ connectToMetamask }) => {
                     </p>
 
                 <hr className="my-4" />
-                CA: 0xf3659aE71cF4131DBA95671E868D0b68FD33E15f
+                CA: 0x3A9530504463F866269a29873610d350F088ED1a
                 <hr className="my-4" />
                 Dextools: <a href="" >Chart</a>
 
