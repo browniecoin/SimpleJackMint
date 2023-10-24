@@ -43,11 +43,22 @@ const ConnectToMetamask = ({ connectToMetamask }) => {
                     </p>
 
                 <hr className="my-4" />
-                Token CA: 0x7D3687F3C998d46e55690750d6438768D163c95A
-                <hr className="my-4" />
-                NFT CA: 0x656230E3076325a4EdeE615becc7FD66bFfAd4bf
+                BlackJack Token CA 0x237af1d6086af64Eaf22E5596417E947637F36B8
                 <hr className="my-4" />
                 Dextools: <a href="" >Chart</a>
+                <p>
+                Introducing the "Blackjack Token" – a game piece designed for specific games like blackjack and others we may create. This token is named after your favorite game, blackjack, to capture its essence of strategy and excitement. With the Blackjack Token in hand, you'll experience the thrill of every move you make in your gaming adventures.
+                </p>
+                <hr className="my-4" />
+                SimpleJack Token CA: 0x7D3687F3C998d46e55690750d6438768D163c95A
+                <hr className="my-4" />
+                Dextools: <a href="https://www.dextools.io/app/en/ether/pair-explorer/0x8d69680e63619562d860048276cbf301710ff0a7" >Chart</a>
+                <p>
+                <hr className="my-4" />
+                This token is primarily designed for use as a fun play gaming token, adding an extra layer of excitement and enjoyment to your gaming experience.
+                </p>
+                <hr className="my-4" />
+                Simple Jack NFT CA: 0x656230E3076325a4EdeE615becc7FD66bFfAd4bf
 
         <hr className="my-2" />
         SimpleJack.vip &copy; 2023 All rights reserved.
