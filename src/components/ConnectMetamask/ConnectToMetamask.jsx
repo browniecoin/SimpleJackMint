@@ -47,7 +47,7 @@ const ConnectToMetamask = ({ connectToMetamask }) => {
                 <hr className="my-4" />
                 Dextools: <a href="" >Chart</a>
                 <p>
-                Introducing the "Blackjack Token" – a game piece designed for specific games like blackjack and others we may create. This token is named after your favorite game, blackjack, to capture its essence of strategy and excitement. With the Blackjack Token in hand, you'll experience the thrill of every move you make in your gaming adventures.
+                Introducing the "Blackjack Token" – a game token designed for specific games like blackjack and others we may create. This token is named after your favorite game, blackjack, to capture its essence of strategy and excitement. With the Blackjack Token in hand, you'll experience the thrill of every move you make in your gaming adventures.
                 </p>
                 <hr className="my-4" />
                 SimpleJack Token CA: 0x7D3687F3C998d46e55690750d6438768D163c95A
