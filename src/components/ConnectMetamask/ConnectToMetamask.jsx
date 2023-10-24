@@ -43,7 +43,9 @@ const ConnectToMetamask = ({ connectToMetamask }) => {
                     </p>
 
                 <hr className="my-4" />
-                CA: 0x3A9530504463F866269a29873610d350F088ED1a
+                Token CA: 0x7D3687F3C998d46e55690750d6438768D163c95A
+                <hr className="my-4" />
+                NFT CA: 0x656230E3076325a4EdeE615becc7FD66bFfAd4bf
                 <hr className="my-4" />
                 Dextools: <a href="" >Chart</a>
 
