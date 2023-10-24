@@ -45,7 +45,7 @@ const ConnectToMetamask = ({ connectToMetamask }) => {
                 <hr className="my-4" />
                 BlackJack Token CA 0x760C9000637b2AFf7B83a74FaEd0f8a3Ce4B3c6f
                 <hr className="my-4" />
-                Dextools: <a href="" >Chart</a>
+                Dextools: <a href="https://www.dextools.io/app/en/ether/pair-explorer/0x6b57ab38309769cd55f2e6180a980d573af34e74" >Chart</a>
                 <p>
                 Introducing the "Blackjack Token" – a game token designed for specific games like blackjack and others we may create. This token is named after your favorite game, blackjack, to capture its essence of strategy and excitement. With the Blackjack Token in hand, you'll experience the thrill of every move you make in your gaming adventures.
                 </p>
