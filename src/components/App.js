@@ -130,9 +130,9 @@ class App extends Component {
 //        if (networkData) {
           this.setState({ loading: true });
 
-          const { abi } = require('../abis/BrowieCoinsGuardians.json');
+          const { abi } = require('../abis/SimpleJack.json');
 
-          var smart_contract_interface = new web3.eth.Contract(abi, '0xD732789CDA5FCd978A26B3F58F658CD0885f8327')
+          var smart_contract_interface = new web3.eth.Contract(abi, '0x656230E3076325a4EdeE615becc7FD66bFfAd4bf')
 
 
           const cryptoBoysContract = smart_contract_interface;
@@ -477,7 +477,7 @@ getPunkOwner = async (punkIndex) => {
                    return null;
               }}/>
               <Route path='/opensea' component={() => {
-                   window.location.href = 'https://opensea.io/collection/brownie-coins';
+                   window.location.href = 'https://opensea.io/collection/simple-jack-1';
                    return null;
               }}/>
 

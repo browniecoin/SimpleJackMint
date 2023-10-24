@@ -32,13 +32,20 @@ const ConnectToMetamask = ({ connectToMetamask }) => {
                     &nbsp;&nbsp;
                     <a href="https://t.me/SimpleJackCoin" ><i class="fab fa-telegram large-icon"></i></a>
 
-
+                    <hr className="my-4" />
+                    <button
+                      onClick={connectToMetamask}
+                      className="btn btn-primary d-flex align-items-center"
+                      style={{ fontSize: "0.9rem", letterSpacing: "0.14rem" }}
+                    >
+                      Connect Wallet
+                    </button>
                     </p>
 
                 <hr className="my-4" />
-                CA:
+                CA: 0xf3659aE71cF4131DBA95671E868D0b68FD33E15f
                 <hr className="my-4" />
-                Dextools:
+                Dextools: <a href="" >Chart</a>
 
         <hr className="my-2" />
         SimpleJack.vip &copy; 2023 All rights reserved.
