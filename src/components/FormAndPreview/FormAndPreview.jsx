@@ -191,7 +191,7 @@ class FormAndPreview extends Component {
         <div class="container">
         <div class="card col-md-12 text-center" >
                     <div class="card-body">
-    <h6 class="card-subtitle mb-2">Mint Amount (Max 5 per Wallet)</h6>
+    <h6 class="card-subtitle mb-2">Mint Amount (Max 2 per Wallet)</h6>
     <div>
       <input
         required
@@ -211,7 +211,7 @@ class FormAndPreview extends Component {
         <form onSubmit={this.callClaimPunkFromApp} className="pt-4 mt-1">
           <div className="row">
           <div className="col-md-12">
-            FREE Mint 5000
+            FREE Mint 1000
             <div>
               <button
                 id="mintBtn22"
@@ -230,7 +230,7 @@ class FormAndPreview extends Component {
         </div>
 
           <hr className="my-4" />
-              Browniecoins.org &copy; 2023 All rights reserved.
+              SimpleJack.vip &copy; 2023 All rights reserved.
           <hr className="my-4" />
       </div>
     );
